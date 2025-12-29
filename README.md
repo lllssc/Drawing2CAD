@@ -63,6 +63,7 @@ Download data from [here](https://drive.google.com/drive/folders/1t9uO2iFh1eVDXR
 
 - `cad_vec` contains our vectorized representation for CAD sequences, saved in `.h5` format to enable fast data loading.
 
+**[Update]** All CAD models used in this project are sourced from [DeepCAD](https://github.com/ChrisWu1997/DeepCAD). We have also released our pipeline and scripts [here](https://github.com/lllssc/STEP2SVG-Pipeline) for exporting and preprocessing SVG drawings, making them available for anyone interested in converting their own CAD model data.
 ## 🚀 Training
 
 To train the model in different input options:
@@ -101,5 +102,14 @@ If you find this project useful for your research, please use the following BibT
   author={Qin, Feiwei and Lu, Shichao and Hou, Junhao and Wang, Changmiao and Fang, Meie and Liu, Ligang},
   journal={arXiv preprint arXiv:2508.18733},
   year={2025}
+}
+
+@inproceedings{qin2025drawing2cad,
+  author = {Qin, Feiwei and Lu, Shichao and Hou, Junhao and Wang, Changmiao and Fang, Meie and Liu, Ligang},
+  title = {Drawing2CAD: Sequence-to-Sequence Learning for CAD Generation from Vector Drawings},
+  year = {2025},
+  doi = {10.1145/3746027.3755782},
+  booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages = {10573–10582},
 }
 ```
