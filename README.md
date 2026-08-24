@@ -7,7 +7,7 @@
   ·
   <a href='' target='_blank'>Shichao Lu</a><sup>1*</sup>
   ·
-  <a href='https://scholar.google.com/citations?user=IZbQymsAAAAJ&hl' target='_blank'>Junhao Hou</a><sup>2*</sup>
+  <a href='https://1nnoh.github.io/' target='_blank'>Junhao Hou</a><sup>2*</sup>
   ·
   <a href='https://scholar.google.com/citations?user=47KhMXEAAAAJ&hl' target='_blank'>Changmiao Wang</a><sup>3</sup>
   ·
