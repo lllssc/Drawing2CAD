@@ -7,7 +7,7 @@
   ·
   <a href='' target='_blank'>Shichao Lu</a><sup>1*</sup>
   ·
-  <a href='https://attractor.do/' target='_blank'>Junhao Hou</a><sup>2*</sup>
+  <a href='https://attractor.do/' target='_blank'>Junhao Hou</a><sup>2*⚑</sup>
   ·
   <a href='https://scholar.google.com/citations?user=47KhMXEAAAAJ&hl' target='_blank'>Changmiao Wang</a><sup>3</sup>
   ·
@@ -25,7 +25,8 @@
 </h4>
 
 <h5>
-  *These authors contributed equally to this work.
+  * These authors contributed equally to this work.<br>
+  ⚑ Project Lead.
 </h5>
 
 [![arXiv](https://img.shields.io/badge/arXiv-Drawing2CAD-b31b1b?logo=arxiv&logoColor=b31b1b)](https://arxiv.org/abs/2508.18733)
